@@ -21,4 +21,4 @@ Basic familiarity with Linux Bash commands
 
 ## System Requirements
 
-Windows Subsystem For Lunix (WSL). We will only be using the Linux terminal for this course and a Web Browser. During the workshop, we will create an account on Docker Hub and GitHub, but if the student has an existing accounts, that will be fine as well. There is no cost associated with either Docker or Github unless the student wants to choose a premium account, but that is not necessary for the workshop.
+Windows Subsystem For Linux (WSL) or Ubuntu Linux via a terminal or SSH session. We will only be using the Linux terminal for this course and a Web Browser. During the workshop, we will create an account on Docker Hub and GitHub, but if the student has an existing accounts, that will be fine as well. There is no cost associated with either Docker or Github unless the student wants to choose a premium account, but that is not necessary for the workshop.
